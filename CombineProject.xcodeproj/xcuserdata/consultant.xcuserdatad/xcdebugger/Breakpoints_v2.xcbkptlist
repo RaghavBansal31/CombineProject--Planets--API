@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7A2A9AB1-5208-4F81-A347-412424ECE577"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51A9CE95-AD65-452D-AA10-FDB0ABA59A05"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CombineProject/View/PlanetView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "51A9CE95-AD65-452D-AA10-FDB0ABA59A05 - 44810175fae12827"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in CombineProject.PlanetView.body.getter : some"
+                  moduleName = "CombineProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/swiftUI/CombineProject/CombineProject/View/PlanetView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+               <Location
+                  uuid = "51A9CE95-AD65-452D-AA10-FDB0ABA59A05 - 3d850769164e652d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CombineProject.Result) -&gt; SwiftUI.VStack&lt;SwiftUI.Text&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.task(priority: Swift.TaskPriority, _: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in CombineProject.PlanetView.body.getter : some"
+                  moduleName = "CombineProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/swiftUI/CombineProject/CombineProject/View/PlanetView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18">
+               </Location>
+               <Location
+                  uuid = "51A9CE95-AD65-452D-AA10-FDB0ABA59A05 - f0421547af42783c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;CombineProject.Result&gt;, Foundation.UUID, SwiftUI.Text&gt;&gt; in CombineProject.PlanetView.body.getter : some"
+                  moduleName = "CombineProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/swiftUI/CombineProject/CombineProject/View/PlanetView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17">
+               </Location>
+               <Location
+                  uuid = "51A9CE95-AD65-452D-AA10-FDB0ABA59A05 - 9ed84529f5adf567"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CombineProject.Result) -&gt; SwiftUI.Text in closure #1 () -&gt; SwiftUI.List&lt;Swift.Never, SwiftUI.ForEach&lt;Swift.Array&lt;CombineProject.Result&gt;, Foundation.UUID, SwiftUI.Text&gt;&gt; in CombineProject.PlanetView.body.getter : some"
+                  moduleName = "CombineProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/consultant/Desktop/swiftUI/CombineProject/CombineProject/View/PlanetView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
